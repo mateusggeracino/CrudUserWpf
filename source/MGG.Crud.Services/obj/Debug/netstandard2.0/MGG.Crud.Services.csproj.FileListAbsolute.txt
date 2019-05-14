@@ -1,0 +1,6 @@
+C:\Users\cc2667\source\repos\CrudUserWpf\source\MGG.Crud.Services\bin\Debug\netstandard2.0\MGG.Crud.Services.deps.json
+C:\Users\cc2667\source\repos\CrudUserWpf\source\MGG.Crud.Services\bin\Debug\netstandard2.0\MGG.Crud.Services.dll
+C:\Users\cc2667\source\repos\CrudUserWpf\source\MGG.Crud.Services\obj\Debug\netstandard2.0\MGG.Crud.Services.csprojAssemblyReference.cache
+C:\Users\cc2667\source\repos\CrudUserWpf\source\MGG.Crud.Services\obj\Debug\netstandard2.0\MGG.Crud.Services.csproj.CoreCompileInputs.cache
+C:\Users\cc2667\source\repos\CrudUserWpf\source\MGG.Crud.Services\obj\Debug\netstandard2.0\MGG.Crud.Services.AssemblyInfoInputs.cache
+C:\Users\cc2667\source\repos\CrudUserWpf\source\MGG.Crud.Services\obj\Debug\netstandard2.0\MGG.Crud.Services.AssemblyInfo.cs
